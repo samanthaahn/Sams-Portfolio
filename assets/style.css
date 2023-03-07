@@ -48,3 +48,12 @@ footer {
     color:aliceblue
 }
 
+.projects {
+    flex: 4;
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
