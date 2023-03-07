@@ -47,6 +47,9 @@ footer {
     background-color: #13293d;
     color:aliceblue
 }
+.details {
+    padding: 5px;
+}
 
 .projects {
     flex: 4;
@@ -93,4 +96,7 @@ footer {
 
 a {
     margin-left: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
