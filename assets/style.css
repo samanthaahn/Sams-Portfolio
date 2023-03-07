@@ -15,6 +15,7 @@ header {
     text-align: center;
     background-color: #13293d;
     color:aliceblue;
+    border-radius: 10px 10px 0 0;
 }
 
 nav {
@@ -61,7 +62,7 @@ footer {
 }
 
 .first-card{
-    border-style: dashed;
+    border-style: solid;
     border-width: 1px;
     border-radius: 10px;
     flex: 0 0 400px;
@@ -83,7 +84,7 @@ footer {
 }
 
 .card{
-    border-style: dashed;
+    border-style: solid;
     border-width: 1px;
     border-radius: 10px;
     flex: 0 0 400px;
@@ -112,4 +113,8 @@ a {
 
 #social {
     margin: 30px;
+}
+
+.coming-soon {
+    border-radius: 0 0 10px 10px;
 }
