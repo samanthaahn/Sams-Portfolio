@@ -69,3 +69,24 @@ footer {
     width: 90%;
     margin-left: 15 px;
 }
+
+.card{
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 10px;
+    flex: 0 0 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.card-header {
+    padding: 20px;
+}
+
+.card p {
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+}
