@@ -10,3 +10,9 @@ body {
     margin: 0;
 }
 
+header {
+    padding: 40px;
+    text-align: center;
+    background-color: #13293d;
+    color:aliceblue;
+}
