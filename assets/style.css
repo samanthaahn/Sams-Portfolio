@@ -90,3 +90,7 @@ footer {
 .card img {
     width: 100%;
 }
+
+a {
+    margin-left: 20px;
+}
