@@ -6,6 +6,8 @@
 }
 
 body {
+    display: flex;
+    flex: row;
 }
 
 img {
@@ -14,11 +16,21 @@ img {
 
 #primary {
 background-color: pink;
-border: 50px;
+width: 100%;
+border: 15px solid green;
+border-width: 10px;
+padding: 50px;
+margin: 20px;
 }
 
 .secondary {
 background-color: greenyellow;
+width: 50%;
+border: 15px solid green;
+border-width: 10px;
+padding: 50px;
+margin: 20px;
+flex: wrap;
 }
 
 
