@@ -119,3 +119,8 @@ a {
 .coming-soon {
     border-radius: 0 0 10px 10px;
 }
+
+p {
+    padding: 10px;
+    text-align: left;
+}
