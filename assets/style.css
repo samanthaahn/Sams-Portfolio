@@ -16,3 +16,8 @@ header {
     background-color: #13293d;
     color:aliceblue;
 }
+
+nav {
+    display: flex;
+    background-color: rgb(126, 45, 63);
+}
