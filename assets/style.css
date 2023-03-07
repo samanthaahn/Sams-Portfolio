@@ -34,3 +34,10 @@ main {
     flex-wrap: wrap;
 }
 
+aside {
+    flex: 1;
+    background-color: antiquewhite;
+    padding: 80px;
+    text-align: center;
+}
+
