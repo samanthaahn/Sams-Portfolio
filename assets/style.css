@@ -57,3 +57,15 @@ footer {
     justify-content: center;
 }
 
+.first-card header {
+    padding: 20px;
+}
+
+.first-card p {
+    text-align: center;
+}
+
+.first-card img {
+    width: 90%;
+    margin-left: 15 px;
+}
