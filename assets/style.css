@@ -7,11 +7,15 @@
 
 body {
     display: flex;
-    flex: row;
 }
 
 img {
     width: 250px;
+    flex: wrap;
+}
+
+div {
+    flex: wrap;
 }
 
 #primary {
@@ -21,6 +25,7 @@ border: 15px solid green;
 border-width: 10px;
 padding: 50px;
 margin: 20px;
+flex: wrap;
 }
 
 .secondary {
@@ -38,4 +43,5 @@ flex: wrap;
 footer {
     text-align: center;
     padding: 50px;
+    flex: wrap;
 }
