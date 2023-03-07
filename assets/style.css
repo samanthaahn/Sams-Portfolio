@@ -19,7 +19,7 @@ header {
 
 nav {
     display: flex;
-    background-color: rgb(126, 45, 63);
+    background-color:#779f7c;
 }
 
 nav a {
@@ -36,7 +36,7 @@ main {
 
 aside {
     flex: 1;
-    background-color: antiquewhite;
+    background-color:al ;
     padding: 80px;
     text-align: center;
 }
