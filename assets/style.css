@@ -5,6 +5,25 @@
     list-style:none;
 }
 
+body {
+}
+
 img {
     width: 250px;
+}
+
+#primary {
+background-color: pink;
+border: 50px;
+}
+
+.secondary {
+background-color: greenyellow;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 50px;
 }
