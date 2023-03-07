@@ -60,6 +60,15 @@ footer {
     justify-content: center;
 }
 
+.first-card{
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 10px;
+    flex: 0 0 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 .first-card header {
     padding: 20px;
 }
@@ -99,4 +108,8 @@ a {
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#social {
+    margin: 30px;
 }
