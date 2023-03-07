@@ -22,9 +22,15 @@ nav {
     background-color: rgb(126, 45, 63);
 }
 
-header {
-    padding: 40px;
+nav a {
+    color:#13293d;
+    padding: 14px 20px;
+    text-decoration: none;
     text-align: center;
-    background-color: #13293d;
-    color: aliceblue
 }
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
