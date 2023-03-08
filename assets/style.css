@@ -124,3 +124,7 @@ a {
     padding: 10px;
     text-align: left;
 }
+
+svg {
+    margin-right: 10px;
+}
