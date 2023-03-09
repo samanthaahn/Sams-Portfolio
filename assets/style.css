@@ -16,7 +16,7 @@ header {
     background-color: #13293d;
     color:aliceblue;
     border-radius: 10px 10px 0 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 nav {
@@ -140,11 +140,9 @@ svg {
 
 @media screen and (max-width: 768px) {
     header {
-      flex-direction: column;
+    flex-direction: column;
     }
-  
     main {
-      max-width: 1200px;
+    max-width: 1200px;
     }
-  }
-  
+}
