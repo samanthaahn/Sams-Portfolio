@@ -18,7 +18,6 @@ N/A
 
 For this specific homework, if you click on the buttons in the navigation bar, it will take you to its corisponding section in the webpage. 
 
-**DISCLAIMER**: This specific layout is only created for desktop viewing. 
 
 ![alt text](./assets/01-html-css-git-homework-demo.png)
 
