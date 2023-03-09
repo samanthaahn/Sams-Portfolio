@@ -8,7 +8,7 @@ I learned how to create a webpage from start to finish so that it showcases my p
 
 ## Deploy link
 
-
+https://samanthaahn.github.io/sams-portfolio/
 
 ## Installation
 
