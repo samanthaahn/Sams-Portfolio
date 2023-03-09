@@ -25,11 +25,12 @@ nav {
 }
 
 nav a {
-    color:#13293d;
+    color:white;
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
 }
+
 
 main {
     display: flex;
